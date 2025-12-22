@@ -197,9 +197,11 @@ Check:
 - 🚫 No AccessDenied  
 - 📄 All files loading properly  
 
-![signal-2025-12-22-123740_002](https://github.com/user-attachments/assets/ed772a10-9bbc-4e86-abb2-2e86eaf05354)
+<img width="800" height="426" alt="signal-2025-12-22-125001" src="https://github.com/user-attachments/assets/17cd1e45-ab33-405c-a695-54a21b5a61d0" />
 
-![signal-2025-12-22-123740](https://github.com/user-attachments/assets/10ef6972-7f75-4f85-a3f5-9867ebd5d5cd)
+<img width="800" height="425" alt="signal-2025-12-22-125021" src="https://github.com/user-attachments/assets/05679fb5-1569-415a-bbd4-366b7767f968" />
+
+
 
 
 ---
