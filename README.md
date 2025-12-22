@@ -197,8 +197,10 @@ Check:
 - 🚫 No AccessDenied  
 - 📄 All files loading properly  
 
-📌 *Screenshot:*  
-`final-website.png`
+![signal-2025-12-22-123740_002](https://github.com/user-attachments/assets/ed772a10-9bbc-4e86-abb2-2e86eaf05354)
+
+![signal-2025-12-22-123740](https://github.com/user-attachments/assets/10ef6972-7f75-4f85-a3f5-9867ebd5d5cd)
+
 
 ---
 
