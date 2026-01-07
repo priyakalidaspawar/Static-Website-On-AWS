@@ -5,7 +5,7 @@ A complete guide to deploying a secure and scalable static website using **Amazo
 ---
 
 # 📝 Introduction  
-
+   
 Static website hosting is a simple, scalable, and cost-effective way to deploy front-end applications, portfolios, landing pages, or documentation sites.  
 Using AWS services, we can make the website:
 
